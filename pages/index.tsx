@@ -15,7 +15,7 @@ const About: NextPage = () => {
   return (
     <div className="flex flex-col flex-grow px-6 pt-1 ">
       <h6 className="my-3 text-base font-medium">
-        I am currently studying at Institute of Engineering and Technology, Rangpur Diploma in Engineering(4th Semester) in Electrical Department
+        I am currently studying at Institute of Engineering and Technology, Rangpur (4th Semester) in Electrical Department
         I have 1+ years of experience in
         Web Development and I am learning new technology everyday.
       </h6>
